@@ -1,0 +1,230 @@
+
+jiemian_saoguang.png
+size: 484,287
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dl
+  rotate: false
+  xy: 58, 64
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+lgsg_0001
+  rotate: false
+  xy: 448, 187
+  size: 33, 52
+  orig: 280, 160
+  offset: 47, 54
+  index: -1
+lgsg_0002
+  rotate: false
+  xy: 442, 59
+  size: 40, 52
+  orig: 280, 160
+  offset: 46, 54
+  index: -1
+lgsg_0003
+  rotate: false
+  xy: 264, 57
+  size: 45, 52
+  orig: 280, 160
+  offset: 47, 54
+  index: -1
+lgsg_0004
+  rotate: false
+  xy: 391, 59
+  size: 49, 52
+  orig: 280, 160
+  offset: 47, 54
+  index: -1
+lgsg_0005
+  rotate: true
+  xy: 228, 111
+  size: 53, 52
+  orig: 280, 160
+  offset: 49, 54
+  index: -1
+lgsg_0006
+  rotate: false
+  xy: 2, 112
+  size: 55, 52
+  orig: 280, 160
+  offset: 56, 54
+  index: -1
+lgsg_0007
+  rotate: true
+  xy: 394, 229
+  size: 56, 52
+  orig: 280, 160
+  offset: 61, 54
+  index: -1
+lgsg_0008
+  rotate: true
+  xy: 394, 171
+  size: 56, 52
+  orig: 280, 160
+  offset: 67, 54
+  index: -1
+lgsg_0009
+  rotate: false
+  xy: 59, 112
+  size: 55, 52
+  orig: 280, 160
+  offset: 75, 54
+  index: -1
+lgsg_0010
+  rotate: true
+  xy: 394, 113
+  size: 56, 52
+  orig: 280, 160
+  offset: 80, 54
+  index: -1
+lgsg_0011
+  rotate: true
+  xy: 282, 111
+  size: 53, 52
+  orig: 280, 160
+  offset: 88, 54
+  index: -1
+lgsg_0012
+  rotate: false
+  xy: 336, 59
+  size: 53, 52
+  orig: 280, 160
+  offset: 93, 54
+  index: -1
+lgsg_0013
+  rotate: false
+  xy: 116, 112
+  size: 54, 52
+  orig: 280, 160
+  offset: 99, 54
+  index: -1
+lgsg_0014
+  rotate: false
+  xy: 172, 112
+  size: 54, 52
+  orig: 280, 160
+  offset: 105, 54
+  index: -1
+lgsg_0015
+  rotate: false
+  xy: 336, 113
+  size: 54, 51
+  orig: 280, 160
+  offset: 111, 55
+  index: -1
+lgsg_0016
+  rotate: false
+  xy: 2, 64
+  size: 54, 46
+  orig: 280, 160
+  offset: 118, 57
+  index: -1
+lgsg_0017
+  rotate: true
+  xy: 209, 10
+  size: 52, 45
+  orig: 280, 160
+  offset: 126, 58
+  index: -1
+lgsg_0018
+  rotate: false
+  xy: 106, 65
+  size: 54, 45
+  orig: 280, 160
+  offset: 131, 58
+  index: -1
+lgsg_0019
+  rotate: false
+  xy: 311, 12
+  size: 51, 45
+  orig: 280, 160
+  offset: 140, 58
+  index: -1
+lgsg_0020
+  rotate: true
+  xy: 106, 10
+  size: 53, 45
+  orig: 280, 160
+  offset: 144, 58
+  index: -1
+lgsg_0021
+  rotate: false
+  xy: 2, 17
+  size: 53, 45
+  orig: 280, 160
+  offset: 150, 58
+  index: -1
+lgsg_0022
+  rotate: true
+  xy: 162, 56
+  size: 54, 45
+  orig: 280, 160
+  offset: 156, 58
+  index: -1
+lgsg_0023
+  rotate: true
+  xy: 153, 2
+  size: 52, 45
+  orig: 280, 160
+  offset: 163, 58
+  index: -1
+lgsg_0024
+  rotate: true
+  xy: 57, 9
+  size: 53, 45
+  orig: 280, 160
+  offset: 169, 58
+  index: -1
+lgsg_0025
+  rotate: false
+  xy: 209, 64
+  size: 53, 45
+  orig: 280, 160
+  offset: 175, 58
+  index: -1
+lgsg_0026
+  rotate: true
+  xy: 256, 6
+  size: 49, 45
+  orig: 280, 160
+  offset: 182, 58
+  index: -1
+lgsg_0027
+  rotate: true
+  xy: 364, 13
+  size: 44, 45
+  orig: 280, 160
+  offset: 190, 58
+  index: -1
+lgsg_0028
+  rotate: true
+  xy: 411, 17
+  size: 40, 45
+  orig: 280, 160
+  offset: 194, 58
+  index: -1
+lgsg_0029
+  rotate: false
+  xy: 448, 241
+  size: 34, 44
+  orig: 280, 160
+  offset: 200, 58
+  index: -1
+lgsg_0030
+  rotate: false
+  xy: 448, 145
+  size: 28, 40
+  orig: 280, 160
+  offset: 206, 59
+  index: -1
+logo
+  rotate: false
+  xy: 2, 166
+  size: 390, 119
+  orig: 390, 119
+  offset: 0, 0
+  index: -1

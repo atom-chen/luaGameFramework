@@ -1,0 +1,104 @@
+
+denglu.png
+size: 448,521
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dengluyouxi
+  rotate: false
+  xy: 345, 179
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+dengluyouxi_add
+  rotate: false
+  xy: 345, 271
+  size: 90, 91
+  orig: 90, 91
+  offset: 0, 0
+  index: -1
+di
+  rotate: true
+  xy: 2, 310
+  size: 209, 203
+  orig: 209, 203
+  offset: 0, 0
+  index: -1
+di2
+  rotate: true
+  xy: 437, 324
+  size: 195, 9
+  orig: 195, 9
+  offset: 0, 0
+  index: -1
+ksyx_quanquan01
+  rotate: false
+  xy: 313, 15
+  size: 125, 126
+  orig: 125, 126
+  offset: 0, 0
+  index: -1
+ksyx_quanquan02
+  rotate: false
+  xy: 178, 143
+  size: 165, 165
+  orig: 165, 165
+  offset: 0, 0
+  index: -1
+ksyx_quanquan03
+  rotate: false
+  xy: 2, 135
+  size: 174, 173
+  orig: 174, 173
+  offset: 0, 0
+  index: -1
+ksyx_quanquan04
+  rotate: true
+  xy: 207, 364
+  size: 155, 163
+  orig: 155, 163
+  offset: 0, 0
+  index: -1
+ksyx_quanquan05
+  rotate: false
+  xy: 2, 20
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+ksyx_quanquan06
+  rotate: false
+  xy: 178, 8
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+ksyx_xuanzhuan01
+  rotate: false
+  xy: 358, 4
+  size: 32, 9
+  orig: 182, 184
+  offset: 71, 173
+  index: -1
+ksyx_xuanzhuan02
+  rotate: false
+  xy: 313, 2
+  size: 43, 11
+  orig: 182, 184
+  offset: 60, 173
+  index: -1
+ksyx_xuanzhuan03
+  rotate: false
+  xy: 424, 5
+  size: 22, 8
+  orig: 182, 184
+  offset: 81, 175
+  index: -1
+ksyx_xuanzhuan04
+  rotate: false
+  xy: 392, 4
+  size: 30, 9
+  orig: 182, 184
+  offset: 82, 174
+  index: -1

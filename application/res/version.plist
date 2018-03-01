@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>app_version</key>
+	<string>1.3.0.0</string>
+	<key>loginServer</key>
+	<string>123.206.183.106:26666</string>
+	<key>loginServer2</key>
+	<string>123.206.183.106:26666</string>
+	<key>patch</key>
+	<string>1</string>
+	<key>serverUrl</key>
+	<string>http://123.206.183.106:28080/static/serv.conf</string>
+	<key>versionUrl</key>
+	<string>http://192.168.1.99:1234/version</string>
+</dict>
+</plist>
